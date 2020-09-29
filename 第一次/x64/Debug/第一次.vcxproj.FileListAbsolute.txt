@@ -1,0 +1,2 @@
+E:\C++上机\ghb\第一次\x64\Debug\第一次.exe
+E:\C++上机\ghb\第一次\x64\Debug\第一次.pdb
